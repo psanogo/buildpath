@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+}
+
+.project {
+  background: #f4f4f4;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: 0.2s;
+}
+``
