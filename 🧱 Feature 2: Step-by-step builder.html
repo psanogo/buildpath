@@ -1,0 +1,30 @@
+<div id="builder" style="display:none;">
+  <h2>To-Do App Project</h2>
+  <p id="step-text"></p>
+  <button onclick="nextStep()">Next Step</button>
+</div>
+const steps = [
+  "Step 1: Create an HTML file",
+  "Step 2: Add a title and input field",
+  "Step 3: Style with CSS",
+  "Step 4: Add JavaScript for tasks"
+];
+
+let currentStep = 0;
+
+function startProject() {
+  document.getElementById("builder").style.display = "block";
+  showStep();
+}
+
+function showStep() {
+  document.getElementById("step-text").innerText = steps[currentStep];
+}
+
+function nextStep() {
+  if (currentStep < steps.length - 1) {
+    currentStep++;
+    showStep();
+  }
+}
+``
