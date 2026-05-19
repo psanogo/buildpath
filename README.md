@@ -29,13 +29,19 @@ With BuildPath, users can:
 - ✅ Track their progress step-by-step  
 - ✅ Stay motivated with guided challenges  
 
-Instead of passive learning, users actively create — building confidence and real skills.
+Instead of passive learning, users actively create — building confidence and real skills 🚀
 
 ---
 
 ## 🎥 Demo
 
 👉 https://www.youtube.com/watch?v=5e8KPTn_Y9Y
+
+---
+
+## 🌐 Live Demo
+
+👉 https://tangerine-starburst-3ab3b5.netlify.app/
 
 ---
 
@@ -47,11 +53,32 @@ Instead of passive learning, users actively create — building confidence and r
 
 ---
 
-## 🛠️ Tech Stack *(edit this if needed)*
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./homepage.png)
+
+### 📚 Learning Dashboard
+![Dashboard](./homepage.png)
+
+### 🛠️ Project Builder
+![Builder](./homepage.png)
+
+---
+
+## 🏆 Project Highlights
+
+- Solves a real learning problem  
+- Focused on project-based learning  
+- Clean and modern UI  
+- Designed and developed independently  
+
+---
+
+## 🛠️ Tech Stack
 
 - Frontend: HTML, CSS, JavaScript  
-- Backend: *(add if you have one)*  
-- Tools: GitHub, VS Code  
+- Tools: GitHub, Netlify, VS Code  
 
 ---
 
@@ -67,60 +94,4 @@ Instead of passive learning, users actively create — building confidence and r
 
 We believe the best way to learn is by building.
 
-BuildPath helps turn beginners into creators.
-``
----
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](./Designer.png)
-
-### 📚 Learning Dashboard
-![Dashboard](./dashboard.png)
-
-### 🛠️ Project Builder
-![Project Builder](./builder
----
-
-## 🌐 Live Demo
-
-👉 https://your-netlify-link.netlify.app
-
----
-``---
-
-## 🏆 Project Highlights
-
-- Built to solve real problems in learning programming  
-- Focus on project-based learning  
-- Clean and modern UI inspired by real tech products  
-- Designed and developed independently  
-
----
-![Status](https://img.shields.io/badge/status-active-success)
-![Made With](https://img.shields.io/badge/made%20with-JavaScript-blue)
-``
-<section class="section">
-  <h2>🎥 See BuildPath in Action</h2>
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/5e8KPTn_Y9Y"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</section>
-``
-<section class="section">
-  <h2>A Better Way to Learn</h2>
-  <div class="cards">
-    <div class="card">🛠️ Build real projects</div>
-    <div class="card">🧭 Follow clear paths</div>
-    <div class="card">📈 Track progress</div>
-  </div>
-</section>
-<section class="section" style="text-align:center;">
-  <h2>Start Building Today</h2>
-  <p>Stop watching. Start creating.</p>
-  <button>🚀 Get Started</button>
-</section>
-``
+BuildPath turns beginners into creators.
