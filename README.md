@@ -80,7 +80,24 @@ BuildPath helps turn beginners into creators.
 ![Dashboard](./dashboard.png)
 
 ### 🛠️ Project Builder
-![Project Builder](./builder.png)
+![Project Builder](./builder
+---
+
+## 🌐 Live Demo
+
+👉 https://your-netlify-link.netlify.app
 
 ---
+``---
+
+## 🏆 Project Highlights
+
+- Built to solve real problems in learning programming  
+- Focus on project-based learning  
+- Clean and modern UI inspired by real tech products  
+- Designed and developed independently  
+
+---
+![Status](https://img.shields.io/badge/status-active-success)
+![Made With](https://img.shields.io/badge/made%20with-JavaScript-blue)
 ``
