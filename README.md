@@ -69,3 +69,18 @@ We believe the best way to learn is by building.
 
 BuildPath helps turn beginners into creators.
 ``
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./Designer.png)
+
+### 📚 Learning Dashboard
+![Dashboard](./dashboard.png)
+
+### 🛠️ Project Builder
+![Project Builder](./builder.png)
+
+---
+``
