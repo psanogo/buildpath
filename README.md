@@ -101,3 +101,26 @@ BuildPath helps turn beginners into creators.
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Made With](https://img.shields.io/badge/made%20with-JavaScript-blue)
 ``
+<section class="section">
+  <h2>🎥 See BuildPath in Action</h2>
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/5e8KPTn_Y9Y"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</section>
+``
+<section class="section">
+  <h2>A Better Way to Learn</h2>
+  <div class="cards">
+    <div class="card">🛠️ Build real projects</div>
+    <div class="card">🧭 Follow clear paths</div>
+    <div class="card">📈 Track progress</div>
+  </div>
+</section>
+<section class="section" style="text-align:center;">
+  <h2>Start Building Today</h2>
+  <p>Stop watching. Start creating.</p>
+  <button>🚀 Get Started</button>
+</section>
+``
